@@ -1,4 +1,4 @@
-<h1>Hi, I'm jhordy, an <a href="https://linkedin.com/in/JhordyMote">IT Professional</a>☺</h1>
+<h1>Hi, I'm jhordy, an <a href="https://www.linkedin.com/in/jhordy-mote-187402227/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/JhordyMote
 [instagram]: https://www.instagram.com/JhordyMote
-[linkedin]: https://linkedin.com/in/JhordyMote
+[linkedin]: [https://linkedin.com/in/JhordyMote](https://www.linkedin.com/in/jhordy-mote-187402227/)
