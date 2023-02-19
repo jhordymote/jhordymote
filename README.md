@@ -8,7 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jhordymote/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jhordymote/azure-network-protocols)
-  - [Configuring-Virtual-Private-Network](https://github.com/joshmadakorcc/Virtual-Private-Network)
+  - [Configuring-Virtual-Private-Network](https://github.com/jhordymote/Virtual-Private-Network)
 
 <h2>🤳Connect with me:</h2>
 
