@@ -17,5 +17,5 @@
 [<img align="left" alt="Jhordy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/JNevherland
-[instagram]: https://www.linkedin.com/in/jhordy-mote-187402227/
+[instagram]: https://www.instagram.com/nevherland_official/
 [linkedin]: https://www.linkedin.com/in/jhordy-mote-187402227/
