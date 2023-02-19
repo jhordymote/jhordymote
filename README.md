@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [VM: Create and Connect Virtual Machine](https://github.com/jhordymote/create and Connect Virtual Machine)
+  - [VM: Create and Connect Virtual Machine](https://github.com/jhordymote/create-Connect-Virtual-Machine)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jhordymote/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs and Virtual Private Network](https://github.com/jhordymote/configure-ad)
