@@ -16,6 +16,6 @@
 [<img align="left" alt="Jhordy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jhordy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/JhordyMote
-[instagram]: https://www.instagram.com/JhordyMote
+[twitter]: [https://twitter.com/JhordyMote](https://twitter.com/JNevherland)
+[instagram]: [https://www.instagram.com/JhordyMote](https://www.instagram.com/nevherland_official/)
 [linkedin]: [https://linkedin.com/in/JhordyMote](https://www.linkedin.com/in/jhordy-mote-187402227/)
