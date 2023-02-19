@@ -3,11 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jhordymote/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jhordymote/post-install-config)
+  - [VM: Create and Connect Virtual Machine](https://github.com/jhordymote/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jhordymote/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jhordymote/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs and Virtual Private Network](https://github.com/jhordymote/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jhordymote/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
