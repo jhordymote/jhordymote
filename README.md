@@ -6,8 +6,9 @@
   - [VM: Create and Connect Virtual Machine](https://github.com/jhordymote/Virtual-Machine)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jhordymote/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs and Virtual Private Network](https://github.com/jhordymote/Active-Directory-and-Virtual-Private-Network)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jhordymote/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jhordymote/azure-network-protocols)
+  - [Virtual-Private-Network](https://github.com/joshmadakorcc/Virtual-Private-Network)
 
 <h2>🤳Connect with me:</h2>
 
